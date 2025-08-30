@@ -1,7 +1,7 @@
 ## Oi eu sou a Letícia Gonçalves!
 
-📘 Cursando 3° semestre de Analise e Desenvolvimento de Sistemas. <br>
-📙 Cursando último semestre Ciências Contábeis
+📘 Cursando Analise e Desenvolvimento de Sistemas. <br>
+📙 Ciências Contábeis UNICESUMAR (2023)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
