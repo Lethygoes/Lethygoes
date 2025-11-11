@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou a Letícia Gonçalves!
 
-Sou formada em Ciências Contábeis e atualmente migrando para Análise de Dados, combinando **Python, SQL, Excel e Power BI** para gerar insights estratégicos.  
+Sou formada em Ciências Contábeis e atualmente migrando para área de Tecnologia.  
 
 ## 🛠 Habilidades
 - Python básico
